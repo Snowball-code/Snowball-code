@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre  mi:
 ¡Hola! 👋 Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en mi primer año, con interés en el diseño de bases de datos y el desarrollo de aplicaciones web y de escritorio. A lo largo de mi formación, he trabajado en proyectos como:<br><br>Modelado de bases de datos utilizando diagramas entidad-relación.<br>Desarrollo de minijuegos como "¡Date prisa, los piratas se acercan!" en Python.<br>Creación de aplicaciones simples como formularios interactivos y juegos de lógica.<br>Actualmente estoy aprendiendo herramientas como Java, Python, SQL y utilizando entornos como IntelliJ IDEA y Visual Studio Code para mis proyectos. También estoy familiarizándome con el uso de Git y GitHub para gestionar el control de versiones y colaborar en equipo.<br>Estoy constantemente explorando nuevas tecnologías y buscando formas de mejorar mis habilidades. En mi tiempo libre, disfruto trabajando en proyectos personales y resolviendo desafíos que me permitan crecer como desarrolladora.<br>Si quieres saber más sobre mis proyectos o colaborar en algo, ¡estaré encantada de conectar! 🛜☺️
 
 
